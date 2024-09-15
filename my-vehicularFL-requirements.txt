@@ -1,0 +1,10 @@
+matplotlib
+networkx
+numpy
+pillow
+pulp
+scipy
+six
+tqdm
+tensorboardx
+jupyterlab-widgets
